@@ -1,0 +1,441 @@
+Economic growth,, contract theory
+Fiscal policy,, currency unions,, size of countries,, redistributive policies
+Contractual frictions in international trade,, the international organization of production,, patterns of industrialization
+Equilibrium models of stock and bond prices,, portfolio choice for long-term investors,, risk sharing functions of financial markets
+Empirical applications of statistical decision theory in microeconomics
+Middle East Economic History
+optimal design of tax and social insurance policies,, consumption behavior and risk preferences,, behavioral welfare economics
+Integrating China into the world economic system
+Why people are in better health,, the impact of medical care on the public sector,, racial and ethnic segregation
+Macroeconomic policy
+Social Security reform,, effects of inflation,, effects of taxation
+Labor economics 
+Growth and decline of unions,, effects of immigration and trade on inequality,, restructuring European welfare states,, Chinese labor markets,, poverty and crime,, self-organizing non-union in the labor market,, employee involvement programs
+The role that financial markets play in determining the effects of monetary and fiscal policies on the non-financial economy,, conceptual frameworks for planning and implementing monetary policy,, social and moral consequences of economic growth
+Affirmative action,, discrimination,, social economics
+Learning IN games,, reputation AND repeated play,, theoretical industrial organization
+The economic histories of education,, income, inequality, immigration, technological change
+Behavior under uncertainty,, incentives and game theory,, public finance: health care, technology, and environment
+Theory of the firm and organizations,, financial structure of firms,, contract theory
+International trade,, international interdependence,, inequality
+Tax reform and US economic growth,, energy,, the environment,, economic growth in China,, investment in human capital,, international comparisons of economic growth
+identification and parameters of interest in microeconometrics,, econometrics methods for the analysis of economic inequality,, optimal policy choice and econometrics
+Wage determination,, understanding changes in the wage structure and wage inequality,, housing mobility and neighborhood effects,, technological change and the labor market,, unemployment,, immigration,, evaluation of the impacts of social and labor market poli
+Economic development,, health and education in the developing world 
+Savings,, consumption,, intertemporal choice,, neuroeconomics,, household finance,, bounded rationality
+Role of information in markets (disclosure, signaling behavior),, Auction Estimation and Design
+Price adjustment,, consumer behavior,, financial markets,, monetary and fiscal policy,, economic growth
+Theory
+Empirical studies which explore the impacts of household,, corporate and government debt on employment and earnings
+Producer-level responses to globalization
+Financial Crises,, Global Warming,, Alcohol and Drug Policy,, Crime
+Static and dynamic models of industry equilibrium and their use in applied work
+Employment,, economics of education,, discrimination
+Global financial systems and the political economy of international macroeconomic policy
+Social choice theory,, welfare economics,, theory of measurement,, development,, public health,, gender studies,, moral and political philosophy,, the economics of war and peace
+Capital allocation inside firms,, asset pricing with differences of opinion,, the role of banks in the transmission of monetary policy
+Environmental economics,, economics of biodiversity,, limits to growth,, green accounting,, discounting,, economics of global warming
+Nervous System Development and Disease,, Nervous System Development and Regeneration
+Cancer,, Hematopoietic Development and Disease
+Cardiovascular Development and Metabolic Disease,, Directed Differentiation,, Noncoding RNA
+Cardiovascular Development and Metabolic Disease,, Directed Differentiation
+Directed Differentiation,, Nervous System Development and Disease,, Nuclear Reprogramming
+Nuclear Reprogramming
+Nervous System Development and Disease
+Directed Differentiation,, Nervous System Development and Disease,, Nervous System Development and Regeneration
+Kidney Development and Repair,, Nervous System Development and Disease
+Directed Differentiation,, Epigenetics,, Nuclear Reprogramming
+Directed Differentiation,, Nuclear Reprogramming,, Pancreas Development and Diabetes
+Cardiovascular Development and Metabolic Disease
+Directed Differentiation,, Noncoding RNA
+Aging and Stem Cells,, Directed Differentiation,, Hematopoietic Development and Disease
+Directed Differentiation,, Nervous System Development and Disease
+Hematopoietic Development and Disease
+Immune Tolerance
+Cancer
+Aging and Stem Cells,, Hematopoietic Development and Disease
+Nervous System Development and Regeneration,, Pancreas Development and Diabetes,, Reprogramming
+Cancer,, Directed Differentiation,, Epigenetics,, Hematopoietic Development and Disease,, Immune Tolerance,, Kidney Development and Repair
+Control Theory and Stochastic Systems,, Intelligent Systems and Computer Vision,, Robotics and Control,, 
+Control Theory and Stochastic Systems,, Circuits and VLSI,, Signal Processing,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, Quantum Devices,, 
+Control Theory and Stochastic Systems,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Oceans and Geophysics,, 
+High Performance Computing,, Graphics, Visualization, and Imaging,, Human-Computer Interaction,, 
+Modeling Physical/Biological Phenonema and Systems,, 
+Modeling Physical/Biological Phenonema and Systems,, Materials Science,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Modeling Physical/Biological Phenonema and Systems,, Oceans and Geophysics,, 
+Modeling Physical/Biological Phenonema and Systems,, Solid Mechanics,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Oceans and Geophysics,, 
+Modeling Physical/Biological Phenonema and Systems,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Multi-Agent Systems,, Bio-Inspired Robotics and Computing,, 
+Modeling Physical/Biological Phenonema and Systems,, Biophysics and Self-Assembly,, Soft Condensed Matter,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+Modeling Physical/Biological Phenonema and Systems,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Fluid Mechanics,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, 
+Privacy and Security,, Theory of Computation,, Communications and Internet Policy,, 
+Theory of Computation,, 
+Artifical Intelligence and Computational Linguistics,, Computation and Economics,, Multi-Agent Systems,, Theory of Computation,, 
+Theory of Computation,, Privacy and Security,, Theory of Computation,, 
+Theory of Computation,, Privacy and Security,, 
+Theory of Computation,, Computational Neuroscience and Evolution,, 
+Artifical Intelligence and Computational Linguistics,, Intelligent Systems and Computer Vision,, Theory of Computation,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Computation and Economics,, Multi-Agent Systems,, Theory of Computation,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Computation and Economics,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Computation and Economics,, Multi-Agent Systems,, Theory of Computation,, 
+Graphics, Visualization, and Imaging,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Modeling Physical/Biological Phenonema and Systems,, Graphics, Visualization, and Imaging,, Signal Processing,, Robotics and Control,, 
+High Performance Computing,, Graphics, Visualization, and Imaging,, Human-Computer Interaction,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Human-Computer Interaction,, Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+High Performance Computing,, Graphics, Visualization, and Imaging,, Human-Computer Interaction,, 
+Human-Computer Interaction,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Intelligent Systems and Computer Vision,, Theory of Computation,, 
+Control Theory and Stochastic Systems,, Intelligent Systems and Computer Vision,, Robotics and Control,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Multi-Agent Systems,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Human-Computer Interaction,, Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, Computer Engineering and Architecture,, 
+Computation and Economics,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Multi-Agent Systems,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Modeling Physical/Biological Phenonema and Systems,, Multi-Agent Systems,, Bio-Inspired Robotics and Computing,, 
+Artifical Intelligence and Computational Linguistics,, Computation and Economics,, Multi-Agent Systems,, Theory of Computation,, 
+Artifical Intelligence and Computational Linguistics,, Human-Computer Interaction,, Multi-Agent Systems,, 
+Information,, Systems & Networks,, Computer Engineering and Architecture,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Human-Computer Interaction,, Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Information,, Systems & Networks,, Computer Engineering and Architecture,, Signal Processing,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Information,, Systems & Networks,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, Computer Engineering and Architecture,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Human-Computer Interaction,, Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Privacy and Security,, Theory of Computation,, Communications and Internet Policy,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, 
+Theory of Computation,, Privacy and Security,, Theory of Computation,, 
+Languages, Compilers, and Operating Systems,, Information,, Systems & Networks,, Privacy and Security,, Computer Engineering and Architecture,, 
+Theory of Computation,, Privacy and Security,, 
+Privacy and Security,, Communications and Internet Policy,, Governance of Emerging Technologies/Innovation Policy,, 
+Artifical Intelligence and Computational Linguistics,, Intelligent Systems and Computer Vision,, Theory of Computation,, 
+Privacy and Security,, Theory of Computation,, Communications and Internet Policy,, 
+Theory of Computation,, 
+Theory of Computation,, Privacy and Security,, Theory of Computation,, 
+Theory of Computation,, Privacy and Security,, 
+Theory of Computation,, Computational Neuroscience and Evolution,, 
+Information,, Systems & Networks,, Computer Engineering and Architecture,, 
+Information,, Systems & Networks,, Computer Engineering and Architecture,, Signal Processing,, 
+
+Computer Engineering and Architecture,, Circuits and VLSI,, 
+Computer Engineering and Architecture,, Circuits and VLSI,, Start-ups and Technology Transfer,, 
+Control Theory and Stochastic Systems,, Circuits and VLSI,, Signal Processing,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, Quantum Devices,, 
+Circuits and VLSI,, 
+Computer Engineering and Architecture,, Circuits and VLSI,, 
+Circuits and VLSI,, Oceans and Geophysics,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, 
+Computer Engineering and Architecture,, Circuits and VLSI,, Start-ups and Technology Transfer,, 
+Information,, Systems & Networks,, Computer Engineering and Architecture,, Signal Processing,, 
+Modeling Physical/Biological Phenonema and Systems,, Graphics, Visualization, and Imaging,, Signal Processing,, Robotics and Control,, 
+Control Theory and Stochastic Systems,, Intelligent Systems and Computer Vision,, Robotics and Control,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Atmospheric and Climate Modeling,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Atmospheric and Climate Modeling,, Engineering, Economic Development, and Resource Management,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, Oceans and Geophysics,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Observation and Field Testing,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Modeling Physical/Biological Phenonema and Systems,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Fluid Mechanics,, Solid Mechanics,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, Oceans and Geophysics,, Pollution Monitoring,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, 
+Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Engineering, Economic Development, and Resource Management,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, Oceans and Geophysics,, Pollution Monitoring,, 
+Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Modeling Physical/Biological Phenonema and Systems,, Oceans and Geophysics,, 
+Atmospheric and Climate Modeling,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Oceans and Geophysics,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, Oceans and Geophysics,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Engineering, Economic Development, and Resource Management,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Modeling Physical/Biological Phenonema and Systems,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Fluid Mechanics,, Solid Mechanics,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Atmospheric and Climate Modeling,, Observation and Field Testing,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Oceans and Geophysics,, Observation and Field Testing,, 
+Atmospheric and Climate Modeling,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Environmental Chemistry and Microbiology,, Oceans and Geophysics,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Pollution Monitoring,, 
+Atmospheric and Climate Modeling,, Observation and Field Testing,, Pollution Monitoring,, 
+Idea Translation and Experiments in the Arts and Sciences,, Social Enterprise,, Start-ups and Technology Transfer,, Cell and Tissue Engineering and Biomaterials,, Science and Engineering Education,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Idea Translation and Experiments in the Arts and Sciences,, Social Enterprise,, Start-ups and Technology Transfer,, Cell and Tissue Engineering and Biomaterials,, Science and Engineering Education,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Computer Engineering and Architecture,, Circuits and VLSI,, Start-ups and Technology Transfer,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Modeling Physical/Biological Phenonema and Systems,, Multi-Agent Systems,, Bio-Inspired Robotics and Computing,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Idea Translation and Experiments in the Arts and Sciences,, Social Enterprise,, Start-ups and Technology Transfer,, Cell and Tissue Engineering and Biomaterials,, Science and Engineering Education,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+Theory of Computation,, Computational Neuroscience and Evolution,, 
+Graphics, Visualization, and Imaging,, Human-Computer Interaction,, Intelligent Systems and Computer Vision,, Robotics and Control,, Bio-Inspired Robotics and Computing,, Biomechanics and Motor Control,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Biomechanics and Motor Control,, Computational Neuroscience and Evolution,, 
+Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Surface and Interface Science,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Materials Science,, Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Modeling Physical/Biological Phenonema and Systems,, Multi-Agent Systems,, Bio-Inspired Robotics and Computing,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Biophysics and Self-Assembly,, Soft Condensed Matter,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Circuits and VLSI,, Oceans and Geophysics,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Electromagnetics and Nanoelectronics,, Materials Science,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Circuits and VLSI,, Oceans and Geophysics,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Fluid Mechanics,, Solid Mechanics,, 
+Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Materials Science,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Electromagnetics and Nanoelectronics,, Materials Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Materials Science,, Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Materials Science,, Solid Mechanics,, Surface and Interface Science,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Nanophotonics,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Circuits and VLSI,, Signal Processing,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, Quantum Devices,, 
+Nanophotonics,, Quantum Devices,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Biophysics and Self-Assembly,, Materials Science,, Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Nanophotonics,, Science and Engineering Education,, 
+Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Control Theory and Stochastic Systems,, Circuits and VLSI,, Signal Processing,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Nanophotonics,, Quantum Devices,, 
+Nanophotonics,, Quantum Devices,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Electromagnetics and Nanoelectronics,, Nanophotonics,, Quantum Devices,, 
+Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Materials Science,, Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Biophysics and Self-Assembly,, Soft Condensed Matter,, 
+Soft Condensed Matter,, Surface and Interface Science,, 
+Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Materials Science,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Solid Mechanics,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Modeling Physical/Biological Phenonema and Systems,, Energy and Environmental Technologies,, Oceans and Geophysics,, Fluid Mechanics,, Materials Science,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Solid Mechanics,, 
+Modeling Physical/Biological Phenonema and Systems,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Fluid Mechanics,, Solid Mechanics,, 
+Robotics and Control,, Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Solid Mechanics,, 
+Materials Science,, Solid Mechanics,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Materials Science,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Surface and Interface Science,, 
+High Performance Computing,, Modeling Physical/Biological Phenonema and Systems,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Control Theory and Stochastic Systems,, Modeling Physical/Biological Phenonema and Systems,, Robotics and Control,, Atmospheric and Climate Modeling,, Oceans and Geophysics,, Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Fluid Mechanics,, Materials Science,, Soft Condensed Matter,, Solid Mechanics,, Surface and Interface Science,, 
+Biophysics and Self-Assembly,, Materials Science,, Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Nanophotonics,, Soft Condensed Matter,, Surface and Interface Science,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Biomechanics and Motor Control,, Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Soft Condensed Matter,, Surface and Interface Science,, 
+Cell and Tissue Engineering and Biomaterials,, Biophysics and Self-Assembly,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Energy and Environmental Technologies,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, 
+Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Materials Science,, Solid Mechanics,, Surface and Interface Science,, 
+Start-ups and Technology Transfer,, Biomechanics and Motor Control,, Biophysics and Self-Assembly,, Materials Science,, Soft Condensed Matter,, Surface and Interface Science,, 
+Privacy and Security,, Theory of Computation,, Communications and Internet Policy,, 
+Communications and Internet Policy,, Governance of Emerging Technologies/Innovation Policy,, 
+Privacy and Security,, Communications and Internet Policy,, Governance of Emerging Technologies/Innovation Policy,, 
+Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Engineering, Economic Development, and Resource Management,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Energy and Environmental Technologies,, Engineering, Economic Development, and Resource Management,, Energy, Environment, and Sustainability,, 
+Atmospheric and Climate Modeling,, Energy and Environmental Technologies,, Oceans and Geophysics,, Energy, Environment, and Sustainability,, 
+Governance of Emerging Technologies/Innovation Policy,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Communications and Internet Policy,, Governance of Emerging Technologies/Innovation Policy,, 
+Privacy and Security,, Communications and Internet Policy,, Governance of Emerging Technologies/Innovation Policy,, 
+Idea Translation and Experiments in the Arts and Sciences,, Social Enterprise,, Start-ups and Technology Transfer,, Cell and Tissue Engineering and Biomaterials,, Science and Engineering Education,, 
+Nanophotonics,, Science and Engineering Education,, 
+Social Enterprise,, Electromagnetics and Nanoelectronics,, Materials Science,, Surface and Interface Science,, Energy, Environment, and Sustainability,, Governance of Emerging Technologies/Innovation Policy,, Science and Engineering Education,, 
+Motile behavior of bacteria: sensory transduction in bacterial chemotaxis (in E coli),, dynamics of the flagellar rotary motor,, propulsion of non-flagellated bacteria
+Biophysical studies with nanopores
+Mechanisms of membrane-associated macromolecular transport machines
+Real-time systems analysis of signal transduction and genetic networks at the single cell level
+Structural biology of retrovirus replication
+Mechanisms of membrane-associated cell biological processes
+Neurobiology,, functional organization of the retina
+Olfactory and vomeronasal systems,, molecular and developmental neurobiology
+Synaptic plasticity: cellular mechanisms,, development of functional networks and links to behaviour
+Reversible phosphorylation and cell proliferation
+Mechanisms of epigenetic inheritance
+High resolution dynamic and spatial studies of prokaryotic cellular organization
+Structural biology of signaling and transport through biological membranes
+Developmental genetics,, genomics,, bioinformatics
+Molecular mechanisms of social behaviors, specifically self versus non-self recognition in bacteria
+Structure and function of membrane proteins
+The structures, genomic organization, and circadian regulation of luciferase and other genes in dinoflagellates
+Experience-dependent brain development,, critical periods
+The genetic basis of adaptive morphology and behavior
+C elegans genetics of intercellular RNAi signaling
+Structure and Function of the Biological Assemblies Involved in DNA Replication
+Chromosome behavior in bacteria and yeast: transposition and control of DNA replication initiation, and interactions between and along chromosomes during meiosis
+Development of the nervous system,, synaptic plasticity,, behavior and evolution
+Structural biology of ATP-dependent chromatin remodeling
+Synaptic structure and competition
+Microbial development and gene regulation
+Developmental plasticity and cell fate specification,, development of the digestive tract and its role in nutritional signaling
+The role of cell signaling in the development of the vertebrate body plan
+Function of neuronal circuits
+Developmental biology
+Molecular genetics and evolution
+Chromosome segregation,, yeast sex,, evolution
+Neural circuits mediating odor processing and learning in mammals
+Physical aspects of the organization and dynamics of subcellular structures
+Force-induced denaturation of DNA,, sequence heterogeneity and the dynamics of motor proteins,, population growth and mutation in disordered media
+Systems level and molecular analysis of signaling pathways,, transcriptional regulatory networks
+Signal processing and decision making
+Synapse formation
+Developmental Genetics and Neurobiology
+Molecular basis of immune recognition
+Neurobiology of perception and decision making
+Chemical and structural biology
+biomimetics,, self-assembly,, adaptive materials,, crystal engineering,, surface wettability,, nanofabrication,, biooptics, biomaterials, and biomechanics 
+Climate Change & Atmospheric Chemistry,, Carbon Isotopic Fluxes,, High Accuracy Climate Observation and Climate Forecast Testing,, Photochemistry & Kinetics
+The Clean Energy Project,, Open Quantum Systems and Quantum Algorithms,, Excitonics,, Electronic Structure Theory,, Quantum Simulation
+Our work will encompass the elucidation and study of biosynthetic pathways and enzymes as well as the development of synthetic methods that are compatible with microbial chemistry
+Iron-mediated catalytic C-H bond functionalization,, Polynuclear complexes for cooperative redox chemistry
+Fluorescent voltage indicators derived from microbial rhodopsins,, Optical chirality and its interaction with matter,, Microbial and molecular motion in mucus,, Trapping single molecules,, Quantum control with magnetic fields in liquids at room temperature,, Science education in Liberia
+Total organic Synthesis,, New Metal Catalyzed Reactions,, 
+Modeling the Dynamics of Surfaces Upon Absorption of Atoms and Molecules,, The Effect of Water on Reactions over Oxide Surfaces,, Using Au(111) to add NH to Olefins,, Formation of Carbon-heteroatom Bonds from Olefins on the Surfaces of Noble Metals,, Atomistic Studies of Reactions on Surfaces
+Precursor Design,, Atomic Layer Deposition,, Theoretical modeling,, thin films
+ultracold atom-atom, atom-surface, and three body collisions,, two-dimensional scattering theory of quantum dots,, surface state electron ''quantum corral'' scattering from defects and adsorbed atoms on metal surfaces,, localization theory of eigenstates,, semiclassical theory of tunneling and diffraction,, quantum correspondence to classical chaos (scars, spectra, wavefunctions, dynamics)
+Clusters of Nitrogenase,, Clusters of CODH,, Mo/W Oxotransferases,, Fe-Nitride Chemistry
+Asymmetric Catalysis,, Selective C- C Bond Formation and Cleavage,, Enzymatic Oxidations,, Mimics of Physiologically Important Enzymes,, New Approaches to Catalyst Design
+Bacterial Cell Wall Biosynthesis and Degradation,, Inhibitory Mechanisms of Moenomycin A,, Biogenesis of the Outer Membrane of Gram-negative Bacteria,, 
+New materials,, nano-bio interface,, nanoelectronics and computing,, Nano-enabled energy
+Synthetic Regulatory Elements,, Directed Evolution,, Supercharged Proteins as a General Macromolecule Delivery Platform,, Structures and Functions in Cellular Nucleic cids,, Cellular CoA-RNA,, NAD-RNA,, Geranylated RNA,, DNA-Templated Synthesis,, 
+organic chemical synthesis,, Tetracyclines,, Avrainvillamides,, Trioxacarcins,, Cortistatins,, Daphniglaucins
+The Phosphate-Responsive Signaling Pathway,, The Logic and Evolution of Transcriptional Control,, The Cyanobacterial Circadian Clock
+Nanoscale Electronics, Optoelectronics, and Plasmonics,, Nanoscale Tools for Cell and Neurobiology
+Functional Group-Tolerant Late-Stage Carbon–Fluorine Bond Formation,, Redox Catalysis
+Peptidomics,, Metabolomics,, 
+Next-generation synthetic chemistry,, small-molecule screening collection,, genes to therapeutics through chromatin,, Diabetes and cancer
+organic chemistry synthesis
+Protein folding and design,, Molecular Evolution,, Drug Discovery,, computational system biology
+Protein Catalysis on DNA,, Peptide Stapling,, RNA Targeting
+Bioanalytics,, Biophysics,, complexity and simplicity,, dissipative systems,, electrets,, flames,, info chemistry,, materials and programmable matter,, microfluidics,, molecular electronics,, self-assembly,, soft lithography and unconventional nanofabrication,, soft robotics,, The chemical origin of life,, Zero-cost diagnostics
+single molecule spectroscopy and imaging,, single molecule enzymology,, Coherent Anti-Stoke Raman Scattering (CARS) microscopy,, single cell genomics
+Nanoscopic Optical Imaging,, Single-molecule biology: Nucleic Acid - Protein Interactions,, Single-virus tracking: Virus-cell Interactions

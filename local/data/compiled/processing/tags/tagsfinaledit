@@ -1,0 +1,19 @@
+# create one liner of tags seperated by commas
+f = open("tagsfinal",'r')
+o = open("ftagsfinal.txt","w")
+for line in f:
+	if ",,\n" in line:
+		o.write(line.replace(",,\n","\n")) 
+	elif ".\n" in line:
+		o.write(line.replace(".\n","\n"))
+	elif ". \n" in line:
+		o.write(line.replace(". \n","\n"))
+	elif ",, \n" in line:
+		o.write(line.replace(",, \n","\n"))
+	elif ",,  \n" in line:
+		o.write(line.replace(",,  \n","\n"))
+	else:
+		o.write(line)
+o.close()
+
+f.close()

@@ -1,0 +1,470 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ ***************************************************************************/
+ html {
+    height:100%;
+    width:100%;
+    overflow:hidden;
+ }
+
+ body {
+    margin:0px;
+    padding:0;
+    height:100%;
+    width:100%;
+    min-width: 100%;
+    background-color: #252525;
+ }
+
+@font-face {
+    font-family: philosopher;
+    src: url('../fonts/philosopher.ttf');
+}
+
+.container-fluid {
+  position: absolute;
+  top:135px;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  padding:0px;
+  margin:0px;
+}
+.container
+{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+}
+#banner-container {
+  background-color:black;
+}
+#banner
+{
+    /* center contents */
+    text-align: center;
+    background-color: black;
+    margin:auto;
+    padding:0px;
+    width: 1024px;
+}
+
+
+
+/*SEARCH*/
+
+
+
+#search
+{
+    /* center contents */
+    text-align: center;
+    position:relative;
+    float:left;
+    width:200px;
+    height:100%;
+    padding:40px 20px 0px 20px;
+}
+
+#search input[type="text"] {
+    background-color: #d9d9d9;
+    border: 0 none;
+    font-size: .8em;
+    line-height: .8em;
+    color: #252525;
+    width: 150px;
+    height:10px;
+    padding: 10px;
+    -moz-box-shadow: inset 0 3px 5px rgba(0,0,0,1);
+    -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,1);
+    box-shadow: inset 0 3px 5px rgba(0,0,0,1);
+    }
+
+.searchtitle
+{
+    font-family: philosopher;
+    color:white;
+    font-size: 2em;
+    margin: 0px 20px 20px 20px;
+}
+
+
+
+/*SEARCH BY*/
+
+#searchoptions {
+  color:#bbbbbb;
+  font-size: .8em;
+}
+
+#searchby-container {
+  overflow:auto;
+  height:30%;
+  width:90%;
+  margin-right: auto;
+  margin-left:auto;
+/*    -moz-box-shadow:    inset 0  40px 40px -40px #111, 
+                        inset 0 -40px 40px -40px #111;
+    -webkit-box-shadow: inset 0  40px 40px -40px #111, 
+                        inset 0 -40px 40px -40px #111;
+    box-shadow:         inset 0  40px 40px -40px #111, 
+                        inset 0 -40px 40px -40px #111;*/
+/*    -moz-box-shadow: inset 0 0 40px 2px #252525;
+  -webkit-box-shadow: inset 0 0 40px 2px #252525;
+  box-shadow: inset 0 0 40px 2px #252525;
+*/
+  z-index:15;
+}
+
+.searchbyoption{
+  color:#bbbbbb;
+  margin:0px 0px 0px 0px;
+  padding: 15px 10px 15px 10px;
+  font-size: .8em;
+  line-height: .9em;
+  border-bottom:1px solid #000;
+  border-top:1px solid #3f3f3f;
+  opacity:.6;
+
+}
+
+.searchoption{
+  opacity:.6;
+}
+
+/*DISCOVER SECTION*/
+
+#discover
+{
+    /* center contents */
+    text-align: center;
+}
+
+#discover-container
+{
+  margin-left:200px;
+  margin-right:300px;
+  overflow:auto;
+  min-width: 460px;
+  height:100%;
+}
+
+
+
+/*INSTANT SEARCH RESULTS LIST*/
+
+div#results-uppercontainer {
+    width: 300px;
+    height: 100%;
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    float:left;
+}
+
+#results-container
+{
+    overflow:auto;
+    background-color: #2b2b2b;
+    -moz-box-shadow: inset 0 0 40px 2px #000;
+  -webkit-box-shadow: inset 0 0 40px 2px #000;
+  box-shadow: inset 0 0 40px 2px #000;
+}
+
+div#results-container, div.topoverlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-width: 10px;
+  }
+
+div.result, div.favorite {
+   background-color: #1F1F1F; 
+   padding:10px 15px 15px 15px;
+   margin:0px;
+   width:270px;
+  border-bottom:1px solid #000;
+  border-top:1px solid #3f3f3f;
+}
+div.topoverlay{
+  z-index:10;
+  pointer-events:none;
+}
+
+img#top {
+  position: absolute;
+  top:0px;
+  left:0px;
+  pointer-events:none;
+
+}
+
+img#bot {
+  position: absolute;
+  bottom:0px;
+  pointer-events:none;
+}
+
+div.namedept-container {
+  overflow: hidden;
+  width: 270px;
+}
+
+div.profname {
+    font-size: .8em;
+    color: white;
+    margin:0px 0px 0px 5px;
+    padding:0px;
+    float:left;
+    font-weight:bold;
+}
+
+div.profdept {
+    font-size: .8em;
+    color: white;
+    margin:0px 5px 0px 0px;
+    padding:0px;
+    float:right;
+    font-weight:bold;
+    color: #A9A9A9;
+}
+
+div.proftags {
+    font-size: .8em;
+    color: #A9A9A9;
+    margin:0px 0px 0px 5px;
+    padding:0px;
+    text-align: left;
+    width:250px;
+}
+
+div.remove {
+    font-size: .8em;
+    color: white;
+    margin:0px 5px 0px 0px;
+    padding:0px;
+    float:right;
+    font-weight:bold;
+    color: #A9A9A9;
+}
+
+
+
+
+
+/*DETAILED INFO*/
+
+
+
+
+
+
+
+#bigname{
+  margin:40px 10px 20px 40px;
+  text-align: left;
+  color:#fff;
+  position:relative;
+}
+
+.bigdiscover {
+    font-family: philosopher;
+    font-size:2em;
+}
+
+.proftitle{
+  margin:40px 0 5px 0px;
+  font-weight: bold;
+  color: #d9d9d9;
+  font-size:1.5em;
+}
+
+.prompt {
+   margin:10px 0 5px 0px;
+  font-weight: bold;
+  color: #d9d9d9;
+  font-size:.8em;
+}
+
+.add {
+  padding:0px 0 0 0;
+  font-size: .7em;
+  opacity: .6;
+
+}
+
+#info-container
+{
+    overflow:auto;
+    height: 100%;
+}
+
+div#info-uppercontainer {
+  height: 100%;
+  margin-left:230px;
+  margin-right:0px;
+  min-width:110px;
+}
+
+#tags-container{
+  width:200px;
+  margin:10px 40px 10px 40px;
+  position:absolute;
+}
+
+th.infotabletitle {
+  color:#bbbbbb;
+  font-weight: bold;
+  padding:10px 0px;
+}
+
+td.tags {
+  text-align:left;
+  line-height: 90%;
+  padding:5px 5px;
+  font-size:.8em;
+  border:1px solid #4b4b4b;
+  background-color: #c1c1c1;
+}
+
+table#tags-list {
+  width:100%;
+}
+
+#interests {
+  color:#bfbfbf;
+  font-size:.7em;
+  margin:0px 40px 0px 40px;
+  text-align: left;
+  line-height: 1.5em;
+}
+
+#taglisttitle {
+  color: #bbbbbb;
+  font-weight: bold;
+  font-size:.9em;
+  padding-right:5px;
+}
+
+/*FAVORITES*/
+
+#connect-uppercontainer {
+  height: 100%;
+  width:300px;
+  position: relative;
+  float:right;
+  display:block;
+  background-color: #404040;
+
+}
+
+#connecttitle {
+  height:100px;
+  background-color: #252525;
+  border:1px solid #000; 
+  position:relative;
+  z-index:5;
+}
+
+#connect-container {
+  top:100px;
+  bottom:0px;
+  width:100%;
+      background-color: #2b2b2b;
+  position:absolute;
+      -moz-box-shadow: inset 0 0 40px 2px #000;
+  -webkit-box-shadow: inset 0 0 40px 2px #000;
+  box-shadow: inset 0 0 40px 2px #000;
+
+}
+
+#connectp {
+  font-family: philosopher;
+  color:white;
+  font-size: 2em;
+  padding-top:40px;
+ padding-left:100px;
+ padding-right:40px;
+ z-index: 15;
+
+}
+
+.favname,.remove{
+  line-height: 0em;
+  opacity:.6;
+}
+
+div.favprofname {
+    font-size: .8em;
+    color: white;
+    margin:0px 0px 0px 5px;
+    padding:10px 0 0 0;
+    float:left;
+    font-weight:bold;
+}
+
+.sitelink a {
+  font-size: .8em;
+  padding-left:6px;
+  text-decoration:none;
+}
+
+.sitelink a:link {
+  color:#d9d9d9;
+}
+
+.sitelink a:visited {
+  color:#d9d9d9;
+}
+
+.sitelink a:hover {
+  color:#fff;
+}
+
+.sitelink a:active {
+  color:#ffffff;
+}
+
+
+
+/*OTHER*/
+
+.ellipsis {
+        white-space: nowrap;
+        overflow: hidden;
+        display: block;
+        padding:0px;
+        margin:0px;
+}
+
+.ellipsis.multiline {
+        white-space: normal;
+}
+
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+}
+
+.selected {
+  opacity: .9;
+}
+
+.unselected {
+  opacity: .6;
+}

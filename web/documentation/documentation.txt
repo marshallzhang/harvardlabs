@@ -1,0 +1,17 @@
+http://www.hcs.harvard.edu/harvardlabs/
+
+I. Introduction
+
+HarvardLabs is a unified portal to the research laboratories at Harvard University. Currently, the various departments at Harvard have their own websites, with data such as the research interests, research topics, and websites of professors scattered across several pages. Undergraduate students often complain that they simply don't know where to start when searching for research opportunities or lab placements. HarvardLabs seeks to address these issues with a simple and intuitive three-step model of searching, discovering, and connecting.
+
+II. Search
+
+HarvardLabs' user experience begins on the left-most Search pane, where users are able to perform an instant search for a particular department, research topic, or professor. This is all contained within an omnibox at the top left, removing the need for several search fields and maximizing ease of use. Below, users can choose to display a scrollable list of all the research tags or all the departments accounted for in the backend database, and perform a search for the particular research tag or department. The results of the search appear in the next pane, where all entries matching the user query are displayed with the professor's name, department, and research interests.
+
+III. Discover
+
+Users are able to select any entry and view detailed professor information in the Discover pane. The professor's name is listed, along with a description of their research, and a list of all the research tags associated with the group. Users can perform a search for professors with research interests similar to the selected professor by clicking on the associated research tags listed in this section. Beneath the professor name, a option to add the professor to the user's list of favorites is also present. 
+
+IV. Connect
+
+If a user decides that a particular professor is of interest, s/he may click "Add to Favorites" underneath a particular professor's name in the Discover pane. This will add the professor to the Connect pane, where users can view a condensed list of all their professors of interest. The professors' names, departments, and links to their websites are listed, and users can easily access all of this information with a single click. Users may click the professors name to view their information in the Discover Pane again, or visit the professor's website by clicking on the "Website" link. Alternatively, a user may remove the professor from their favorites list by clicking "Remove".

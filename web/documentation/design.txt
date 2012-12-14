@@ -1,0 +1,29 @@
+http://www.hcs.harvard.edu/harvardlabs/
+
+I. Introduction
+
+HarvardLabs was built in two main stages: the back-end and the front-end. On the back-end, which consisted of scraping professor information, building mySQL databases, etc, I used Python, PHP, and mySQL. On the front-end, which consisted of building the website itself, I used PHP, Javascript, HTML, and CSS.
+
+II. Scraping
+
+I used Python and the BeautifulSoup library to programmatically scrape information such as professor names, websites, research interests, and research descriptions from the websites of six departments: MCB, CCB, PHYS, ECON, SCRB, SEAS. This information was put into an Excel spreadsheet and exported as a .csv file for processing.
+
+III. Building the Database
+
+I used PHP and mySQL to build relational databases in mySQL. First, a table consisting of professor names, departments, and sites was created called profs. I used PHP to find the unique tags between all of the professors (many professors had the same research tags) and created a table containing them called tags. I then used PHP to programmatically create a junction table called profs_tag_link which encoded the many-to-many relationship between professors and their research tags. I also created a a table called interests containing the research descriptions of the professor. I unfortunately did not have time to join this table and the profs table, but no extra queries had to be written because of this, and the tables are relatively small so there were no major adverse effects. Finally, I created a table called users to store user favorites.
+
+IV. Search
+
+Instant search was implemented around the .getJSON() method in jQuery combined with PHP code. Everytime a new key is pressed, jQuery queries the database (join between profs and tags using the junction table) for any matches on the department, professor, or tag, and fills the relevant results-container with individual divs containing this information, using the .html() method. The relevant columns in the database were indexed. Searching by tag or by department as per the menu below the omnibar simply called a different PHP file to perform the relevant search. The jScrollPane plugin was used to create custom scrollbars on the list of tags/departments.
+
+V. Discover
+
+After a lab is clicked, the database is queried for further information on the professor and the information is displayed programmatically using the .html() method. A list of clickable research tags is generated, and clicking on any one will call a function to search by that tag. Again, most of the functionality is built around the .getJSON() method in jQuery and querying the mySQL database through PHP, then rendering the received data through jQuery.
+
+VI. Connect
+
+A cookie is set before any HTTP requests are sent, and set to expire a week from the current time. When a user adds a professor to their favorites, a entry containing the cookie and the PROF_ID is added to users, and all the PROF_IDs associated with the current cookie are used to display the user's current list of favorites. Removing a favorite simply removes the relevant entry from users. Once again, most of the functionality is built around the .getJSON() method in jQuery and querying the mySQL database through PHP, then rendering the received data through jQuery.
+
+VII. Layout
+
+The Search and Connect panes are fixed-width, with Search floated left and Connect floated right. The Discover pane contains two subpanes - the results pane and the actual information pane. The Discover pane has margins equal to the widths of the Search and Connect panes and fills the space between them. The results pane is fixed width while the information pane also changes width. All lists (list of results, list of research tags, list of favorites), are actually divs contained within a container, and are styled with CSS. Several CSS3 attributes were used for the site, and it may not function properly in older broswers such as IE6. The minimum screen width for the site is 1280.
